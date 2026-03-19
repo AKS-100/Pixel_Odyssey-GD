@@ -280,7 +280,7 @@ MonoBehaviour:
   jumpPower: 25
   allowedJumps: 2
   jumpDuration: 0.2
-  jumpEffect: {fileID: 0}
+  jumpEffect: {fileID: 8300201836533359006, guid: f30382cfcdcdfb24dadd05f681d5c697, type: 3}
   passThroughLayers: []
   moveAction:
     m_Name: Move
